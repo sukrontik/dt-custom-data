@@ -2708,7 +2708,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="BeIN Sport",BeIN Sports 4 AIS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referer=https://ais-vidnt.com/
 https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/S0004/DASH/S0004.mpd?&tt=0f3044db246c0c13a63dfe725a8b1aef&chunkHttps=true&tmid=B0001&tpbk=68XGElBiEW0vv2Gd&rrt=1680528854&tmod=rfk&rsid=eb3d81ff-9d33-4414-9c3f-7f31080ff43b&tuid=eppVoZTbGWog0uXrLqKLdBtsU4UoTlmPBXmUjvfNmP4GZYXQjdMiaIMT6A1o3OgrYoQTLYxWNqIVgz3ZzybbJRYzM3e+4ceYoToyozJUtHU9Y%3D&cdn=redfox&tdid=4cc8876566042641bd7fc63db2e76911&origin=anevia&tfa=f0-fc&tttl=1680609058
  
