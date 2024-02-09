@@ -1,4 +1,6 @@
-EXTINF:-1 type="" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
+#EXTINF:-1 type="" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
+#PLAYLIST:Sean Hall berbicara dengan CNN tentang bagaimana perampasan budaya selama beberapa dekade telah membentuk industri musik dan memberikan wawasan tentang kasus yang menimpa Taylor Swift.
+#EXTALB:Sean Hall berbicara dengan CNN tentang bagaimana perampasan budaya selama beberapa dekade telah membentuk industri musik dan memberikan wawasan tentang kasus yang menimpa Taylor Swift.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
