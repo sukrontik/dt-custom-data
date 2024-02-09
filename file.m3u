@@ -4933,7 +4933,7 @@ https://astrukbypass.riwatn.workers.dev/dash-wv/linear/5057/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-EXTINF:-1 group-title="OTHERS SPORT" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
+#EXTINF:-1 group-title="OTHERS SPORT" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
 https://astrukbypass.riwatn.workers.dev/dash-wv/linear/2506/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
