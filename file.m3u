@@ -4950,4 +4950,31 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 
 
+
+#====================#
+# Channel Live Event #
+#====================#
+
+
+
+#EXTGRP:LIVE EVENT
+#EXTINF:0 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg",Bola Live
+#https://live4.cakhia18.com/
+#https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8|Referer=https://live4.cakhia18.com/truc-tiep/
+#Indosiar
+http://103.166.27.2:8112/play/a016/index.m3u8
+http://xtv.ooo:8080/owais1/12345/350972
+#SCTV
+http://103.166.27.2:8112/play/a015/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/drm?pw=update1&id=205
+#https://ariev2.vercel.app/api/play.mpd?id=205&pw=update1
+
+
+
+
+
+
 #EXTM3U billed-msg="😎 Playlist Gratis (Mimipipi22) Jangan Diperjualbelikan 😎"
