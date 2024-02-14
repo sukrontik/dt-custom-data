@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://strimz.my.id/epg"
-#EXTM3U x-url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
+
 
 ------------------------------- PLAYLIST GRATIS--------------------------
 ------------------- JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA ------------------
@@ -5154,6 +5154,78 @@ https://webudit.webhd.ru/lb/premium126/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium43/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport
+http://178.219.128.68:64889/POLSSPORHD
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Extra 🇵🇱
+http://45.65.112.49:8000/play/a08h
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 🇵🇱
+http://89.187.179.242:1969/PolsatSportPremium
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 1 🇵🇱
+http://89.187.179.242:12467/PolsatSportPremium1
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 2 🇵🇱
+http://89.187.179.242:12468/PolsatSportPremium2
+#EXTINF:-1 tvg-id="" group-title="POLSAT SPORTS (SIMPLETV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg",Polsat Sport Premium 3 🇵🇱
+http://45.65.112.49:8000/play/a0js
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TyC SPORTS (SIMPLETV)" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
+http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/3925&amp;f=.ch
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TyC SPORTS (SIMPLETV)" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TyC SPORTS (SIMPLETV)" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc-blue.svg",TyC Sports 🇦🇷
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+
+```````` # FA CUP # ````````
+#EXTINF:-1 group-logo="https://i.ibb.co/RyC0Q2J/Logo-TV-Group.png"
+ 
+True Premier 5
+#EXTINF:-1 group-title="# FA CUP #" tvg-id="truepremierfootball5.th" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg", FA CUP 1
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+ 
+BEIN VID 1 IDN
+#EXTINF:-1 group-title="# FA CUP #" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg", FA CUP 2
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+ 
+AIS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg" group-title="# FA CUP #", FA CUP 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+AIS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg" group-title="# FA CUP #", FA CUP 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+BSPORT 1
+#EXTINF:-1 tvg-id="beIN SPORTS 1.th" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg" group-title="# FA CUP #", FA CUP 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+ 
+PREMIER SPORT 1
+#EXTINF:-1 tvg-id="PremierSports1Asia1.ie" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg" group-title="# FA CUP #", FA CUP 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00059cff7b261aa9b2fcbd57ad1ca332:1872a5a3afb4f369ab339024a09fda25
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier1sports50)/manifest_hd.mpd
+ 
+PREMIER SPORT 2
+#EXTINF:-1 tvg-id="PremierSports1Asia1.ie" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg" group-title="# FA CUP #", FA CUP 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000354713f5113fd49f41f556bdf1add:9a6ca88b3b6c7088c8197a7366f2e7e5
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(premier2sports50)/manifest_hd.mpd
+ 
+True Premier 4
+#EXTINF:-1 group-title="# FA CUP #" tvg-id="truepremierfootball4.th" tvg-logo="https://i.ibb.co/tCSHX2K/Logo-Silver-1000x667-1000.jpg", FA CUP 8
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 
 
 #EXTM3U billed-msg="😎 Playlist Gratis (Mimipipi22) Jangan Diperjualbelikan 😎"
