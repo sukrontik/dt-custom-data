@@ -7,6 +7,13 @@
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8PGSPKB6jd+WZrb0dOpbxA","kid":"77CKh4/VncOV7gXVPl2bmw"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654499f2d940521074e78b79_hbovodhd/dash0/IDN_index.mpd
 
+#EXTINF:-1 type="movie" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041489X0-portrait.jpg",Blue Beetle 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kSv89eHQ1oS74h+4YC35Qg","kid":"nBRyYcF3lZ7W3rr3Brb6ng"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654c47b5d940521074e844b6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
 #EXTINF:-1 type="" group-title="HBOGO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
