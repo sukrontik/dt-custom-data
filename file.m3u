@@ -1172,6 +1172,9 @@ https://s.id/21ogW-indosiar|User-Agent=OTT Navigator/hometv.finale (Linux;Androi
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dens/indosiar
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL",INDOSIAR (V*)
 http://startv365.com:80/D85A79B4/55A7743D/45098
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="NATIONAL" tvg-url="https://s.id/KITKATTV",INDOSIAR Backup(V*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV (Htv)
 https://s.id/21ohu-sctv|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
@@ -1182,7 +1185,7 @@ http://startv365.com:80/D85A79B4/55A7743D/45099
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NATIONAL" tvg-url="https://s.id/KITKATTV",SCTV Backup(V*)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
+https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="NATIONAL", MOJI (Htv)
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
