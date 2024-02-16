@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/visionplus.id.xml" refresh="3600"
-#EXTM3U x-url-tvg="https://xmltv.tvkaista.net/guides/visionplus.id.xml"
+#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml" refresh="3600"
+
 
 ------------------------------- PLAYLIST GRATIS--------------------------
 ------------------- JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA ------------------
