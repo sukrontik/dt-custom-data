@@ -202,6 +202,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",CITRA ENTERTAINMENT (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",JUST FOR LAUGHS (PLUTO TV)
+https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
+
 
 =========================================== KIDS ===========================================
 
@@ -5780,9 +5783,6 @@ http://103.113.116.150:25461/mtm1/12345/167
 http://103.113.116.150:25461/mtm1/12345/168
 #EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RMC 2
 http://103.113.116.150:25461/mtm1/12345/169
-
-
-
 
 
 #EXTM3U billed-msg="😎 Playlist Gratis (Mimipipi22) Jangan Diperjualbelikan 😎"
