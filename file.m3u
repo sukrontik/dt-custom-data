@@ -1,4 +1,36 @@
-#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/visionplus.id.xml, https://xmltv.tvkaista.net/guides/cubmu.com.xml, https://xmltv.tvkaista.net/guides/indihometv.com.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, 
+https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml, 
+https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://weareblahs.github.io/epg/astro.xml, https://weareblahs.github.io/epg/rtmklik.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20230411&channel_id=63181"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20230411&channel_id=63211"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml refresh="3600"
+
+#EXTM3U x-url-tvg="https://epg-api.visionplus.id/api/v1/epg?isLive=false&start_time_from=2023-10-01&channel_ids=2"
+
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
+
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,username=epg&password=epg" refresh="3600"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
+
+#EXTM3U x-tvg-url="https://12537-stream-ip-tv.xyz/global/epg.xml.gz" refresh=3600 tvg-shift=0
+
+
+#EXTM3U x-tvg-url= "https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
+#EXTM3U url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml" refresh="12"
+
+
+
 
 
 ------------------------------- PLAYLIST GRATIS--------------------------
@@ -5450,6 +5482,184 @@ https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
+============================== TV DIGITAL ===========================================
+
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANS7
+http://103.113.116.150:25461/mtm1/12345/1
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANSTV
+http://103.113.116.150:25461/mtm1/12345/2
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INDOSIAR
+http://103.113.116.150:25461/mtm1/12345/3
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SCTV
+http://103.113.116.150:25461/mtm1/12345/4
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
+http://103.113.116.150:25461/mtm1/12345/6
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV
+http://103.113.116.150:25461/mtm1/12345/7
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS
+http://103.113.116.150:25461/mtm1/12345/8
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TV ONE
+http://103.113.116.150:25461/mtm1/12345/9
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANTV
+http://103.113.116.150:25461/mtm1/12345/10
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NET
+http://103.113.116.150:25461/mtm1/12345/11
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",METRO TV
+http://103.113.116.150:25461/mtm1/12345/12
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",KOMPAS TV
+http://103.113.116.150:25461/mtm1/12345/13
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RTV
+http://103.113.116.150:25461/mtm1/12345/14
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI
+http://103.113.116.150:25461/mtm1/12345/15
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO HITS
+http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO SIGNATURE
+http://103.113.116.150:25461/mtm1/12345/18
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO FAMILY
+http://103.113.116.150:25461/mtm1/12345/19
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IMC
+http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FLIK
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARNER BROS TV
+http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV
+http://103.113.116.150:25461/mtm1/12345/25
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/26
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SINDONEWS TV
+http://103.113.116.150:25461/mtm1/12345/27
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNN INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/29
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNBC INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/32
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RT
+http://103.113.116.150:25461/mtm1/12345/33
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BBC
+http://103.113.116.150:25461/mtm1/12345/34
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ALJAZEERA
+http://103.113.116.150:25461/mtm1/12345/35
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BLOOMBERG
+http://103.113.116.150:25461/mtm1/12345/36
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CGTN
+http://103.113.116.150:25461/mtm1/12345/37
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DW CHANEL
+http://103.113.116.150:25461/mtm1/12345/38
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO NEWS
+http://103.113.116.150:25461/mtm1/12345/39
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FRANCE 24
+http://103.113.116.150:25461/mtm1/12345/40
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNA
+http://103.113.116.150:25461/mtm1/12345/41
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX NEES
+http://103.113.116.150:25461/mtm1/12345/42
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IDX CHANEL
+http://103.113.116.150:25461/mtm1/12345/43
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SEA TODAY
+http://103.113.116.150:25461/mtm1/12345/44
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARKOP DKI
+http://103.113.116.150:25461/mtm1/12345/45
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 4
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FIGHT SPORT
+http://103.113.116.150:25461/mtm1/12345/51
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",OPTUS SPORT
+http://103.113.116.150:25461/mtm1/12345/54
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
+http://103.113.116.150:25461/mtm1/12345/55
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (SERI A)
+http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (LALIGA)
+http://103.113.116.150:25461/mtm1/12345/57
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
+http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (TENNIS)
+http://103.113.116.150:25461/mtm1/12345/59
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (ACTION)
+http://103.113.116.150:25461/mtm1/12345/60
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (GOLF)
+http://103.113.116.150:25461/mtm1/12345/61
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/62
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
+http://103.113.116.150:25461/mtm1/12345/63
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (RUGBY)
+http://103.113.116.150:25461/mtm1/12345/64
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/69
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 2
+http://103.113.116.150:25461/mtm1/12345/70
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 3
+http://103.113.116.150:25461/mtm1/12345/71
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 1 (THAI)
+http://103.113.116.150:25461/mtm1/12345/72
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 2 (THAI)
+http://103.113.116.150:25461/mtm1/12345/73
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 3 (THAI)
+http://103.113.116.150:25461/mtm1/12345/74
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 1)
+http://103.113.116.150:25461/mtm1/12345/75
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 3)
+http://103.113.116.150:25461/mtm1/12345/76
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE TENNIS
+http://103.113.116.150:25461/mtm1/12345/77
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DISCOVERY
+http://103.113.116.150:25461/mtm1/12345/85
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO
+http://103.113.116.150:25461/mtm1/12345/86
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO WILD
+http://103.113.116.150:25461/mtm1/12345/87
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIMAL PLANET
+http://103.113.116.150:25461/mtm1/12345/88
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HGTV
+http://103.113.116.150:25461/mtm1/12345/97
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TLC
+http://103.113.116.150:25461/mtm1/12345/98
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",AFN
+http://103.113.116.150:25461/mtm1/12345/99
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CARTOON NETWORK
+http://103.113.116.150:25461/mtm1/12345/107
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HOREE
+http://103.113.116.150:25461/mtm1/12345/112
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX+
+http://103.113.116.150:25461/mtm1/12345/122
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS
+http://103.113.116.150:25461/mtm1/12345/123
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/124
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 1
+http://103.113.116.150:25461/mtm1/12345/125
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/126
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORT (PREMIER LEAGE)
+http://103.113.116.150:25461/mtm1/12345/127
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/128
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (EFL)
+http://103.113.116.150:25461/mtm1/12345/129
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FORMULA)
+http://103.113.116.150:25461/mtm1/12345/130
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/131
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY PROTECT
+http://103.113.116.150:25461/mtm1/12345/132
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (GOLF)
+http://103.113.116.150:25461/mtm1/12345/133
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
+http://103.113.116.150:25461/mtm1/12345/134
 
 
 #EXTM3U billed-msg="😎 Playlist Gratis (Mimipipi22) Jangan Diperjualbelikan 😎"
