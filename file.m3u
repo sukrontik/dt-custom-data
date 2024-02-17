@@ -5660,6 +5660,31 @@ http://103.113.116.150:25461/mtm1/12345/132
 http://103.113.116.150:25461/mtm1/12345/133
 #EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
 http://103.113.116.150:25461/mtm1/12345/134
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BEIN ENGLISH 1
+http://103.113.116.150:25461/mtm1/12345/144
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BEIN ENGLISH 2
+http://103.113.116.150:25461/mtm1/12345/145
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",PREMIER HUB 1
+http://103.113.116.150:25461/mtm1/12345/149
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",PREMIER HUB 2
+http://103.113.116.150:25461/mtm1/12345/150
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 1
+http://103.113.116.150:25461/mtm1/12345/163
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 2
+http://103.113.116.150:25461/mtm1/12345/164
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 3
+http://103.113.116.150:25461/mtm1/12345/165
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 4
+http://103.113.116.150:25461/mtm1/12345/166
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 5
+http://103.113.116.150:25461/mtm1/12345/167
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RMC 1
+http://103.113.116.150:25461/mtm1/12345/168
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RMC 2
+http://103.113.116.150:25461/mtm1/12345/169
+
+
+
 
 
 #EXTM3U billed-msg="😎 Playlist Gratis (Mimipipi22) Jangan Diperjualbelikan 😎"
