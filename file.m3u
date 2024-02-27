@@ -5485,304 +5485,6 @@ https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/c
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 1
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 2
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 3
-https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 4
-https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 5 ⭐ (EPL/UCL big match)
-https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 6
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 7
-https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 8
-https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 9
-https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (head) 10
-https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 1 sd ⭐ (EPL/UCL big match)
-https://s4.anania.xyz/hls/abr-stream-1/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 2 sd
-https://s4.anania.xyz/hls/abr-stream-2/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 3 sd
-https://s4.anania.xyz/hls/abr-stream-3/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 4 sd
-https://s4.anania.xyz/hls/abr-stream-4/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s4) 5 sd
-https://s4.anania.xyz/hls/abr-stream-5/index.m3u8?|Referer=https://www.topsporter.net/
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 1 ⭐ (EPL/UCL big match)
-https://usa.raino.site/hls/stream1.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 2
-https://usa.raino.site/hls/stream2.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 3
-https://usa.raino.site/hls/stream3.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 4
-https://usa.raino.site/hls/stream4.m3u8?|Referer=https://bdnewszh.com/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (raino) 5
-https://usa.raino.site/hls/stream5.m3u8?|Referer=https://bdnewszh.com/
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 1
-https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 2 ⭐ (EPL/UCL big match)
-https://reels2watch.com/hls/s2.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 3
-https://reels2watch.com/hls/s3.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 4
-https://reels2watch.com/hls/s4.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://png.pngtree.com/png-vector/20221104/ourmid/pngtree-live-football-red-play-button-png-image_6413825.png", Live Match (reels) 5
-https://reels2watch.com/hls/s5.m3u8?|Referer=https://techclips.net/
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s3) 1 ⭐ (EPL/UCL big match)
-https://s3.alnorum.xyz/hls/stream-1/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s3) 2
-https://s3.alnorum.xyz/hls/stream-2/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s3) 3
-https://s3.alnorum.xyz/hls/stream-3/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s3) 4
-https://s3.alnorum.xyz/hls/stream-4/index.m3u8?|Referer=https://www.topsporter.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (s3) 5
-https://s3.alnorum.xyz/hls/stream-5/index.m3u8?|Referer=https://www.topsporter.net/
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (nflar) 1
-https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (nflar) 2 ⭐ (EPL/UCL big match)
-https://nflarcadia.xyz/hls/s2.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (nflar) 3
-https://nflarcadia.xyz/hls/s3.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (nflar) 4
-https://nflarcadia.xyz/hls/s4.m3u8?|Referer=https://techclips.net/
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (nflar) 5
-https://nflarcadia.xyz/hls/s5.m3u8?|Referer=https://techclips.net/
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (btw) 1 ⭐ (EPL/UCL big match)
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (btw) 2
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (btw) 3
-https://hls.streambtw.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (btw) 4
-https://hls.streambtw.com/live/stream_4.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://cdn1.vectorstock.com/i/1000x1000/77/95/live-football-streaming-icon-badge-button-vector-28137795.jpg", Live Match (btw) 5
-https://hls.streambtw.com/live/stream_5.m3u8
-
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 1 ⭐ (EPL/UCL big match)
-https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 2
-https://soccer.freesportstime.com/live/stream_2.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 3
-https://soccer.freesportstime.com/live/stream_3.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 4
-https://soccer.freesportstime.com/live/stream_4.m3u8
-#EXTINF:-1 group-title="Live Soccer Event⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLEC2mZFaZxtAYHHCl2WF5qknWIEvgXHeL1Q&usqp=CAU", Live Match (sofree) 5
-https://soccer.freesportstime.com/live/stream_5.m3u8
-
-============================== TV DIGITAL ===========================================
-
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANS7
-http://103.113.116.150:25461/mtm1/12345/1
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANSTV
-http://103.113.116.150:25461/mtm1/12345/2
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INDOSIAR
-http://103.113.116.150:25461/mtm1/12345/3
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SCTV
-http://103.113.116.150:25461/mtm1/12345/4
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI
-http://103.113.116.150:25461/mtm1/12345/5
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
-http://103.113.116.150:25461/mtm1/12345/6
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV
-http://103.113.116.150:25461/mtm1/12345/7
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS
-http://103.113.116.150:25461/mtm1/12345/8
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TV ONE
-http://103.113.116.150:25461/mtm1/12345/9
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANTV
-http://103.113.116.150:25461/mtm1/12345/10
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NET
-http://103.113.116.150:25461/mtm1/12345/11
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",METRO TV
-http://103.113.116.150:25461/mtm1/12345/12
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",KOMPAS TV
-http://103.113.116.150:25461/mtm1/12345/13
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RTV
-http://103.113.116.150:25461/mtm1/12345/14
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI
-http://103.113.116.150:25461/mtm1/12345/15
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO
-http://103.113.116.150:25461/mtm1/12345/16
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO HITS
-http://103.113.116.150:25461/mtm1/12345/17
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO SIGNATURE
-http://103.113.116.150:25461/mtm1/12345/18
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO FAMILY
-http://103.113.116.150:25461/mtm1/12345/19
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
-http://103.113.116.150:25461/mtm1/12345/20
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IMC
-http://103.113.116.150:25461/mtm1/12345/21
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FLIK
-http://103.113.116.150:25461/mtm1/12345/22
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BIOSKOP INDONESIA
-http://103.113.116.150:25461/mtm1/12345/23
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARNER BROS TV
-http://103.113.116.150:25461/mtm1/12345/24
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV
-http://103.113.116.150:25461/mtm1/12345/25
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIPLUS
-http://103.113.116.150:25461/mtm1/12345/26
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SINDONEWS TV
-http://103.113.116.150:25461/mtm1/12345/27
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNN INTERNATIONAL
-http://103.113.116.150:25461/mtm1/12345/29
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNBC INTERNATIONAL
-http://103.113.116.150:25461/mtm1/12345/32
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RT
-http://103.113.116.150:25461/mtm1/12345/33
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BBC
-http://103.113.116.150:25461/mtm1/12345/34
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ALJAZEERA
-http://103.113.116.150:25461/mtm1/12345/35
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BLOOMBERG
-http://103.113.116.150:25461/mtm1/12345/36
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CGTN
-http://103.113.116.150:25461/mtm1/12345/37
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DW CHANEL
-http://103.113.116.150:25461/mtm1/12345/38
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO NEWS
-http://103.113.116.150:25461/mtm1/12345/39
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FRANCE 24
-http://103.113.116.150:25461/mtm1/12345/40
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNA
-http://103.113.116.150:25461/mtm1/12345/41
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX NEES
-http://103.113.116.150:25461/mtm1/12345/42
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IDX CHANEL
-http://103.113.116.150:25461/mtm1/12345/43
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SEA TODAY
-http://103.113.116.150:25461/mtm1/12345/44
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARKOP DKI
-http://103.113.116.150:25461/mtm1/12345/45
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2
-http://103.113.116.150:25461/mtm1/12345/48
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3
-http://103.113.116.150:25461/mtm1/12345/49
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 4
-http://103.113.116.150:25461/mtm1/12345/50
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FIGHT SPORT
-http://103.113.116.150:25461/mtm1/12345/51
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",OPTUS SPORT
-http://103.113.116.150:25461/mtm1/12345/54
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
-http://103.113.116.150:25461/mtm1/12345/55
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (SERI A)
-http://103.113.116.150:25461/mtm1/12345/56
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (LALIGA)
-http://103.113.116.150:25461/mtm1/12345/57
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
-http://103.113.116.150:25461/mtm1/12345/58
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (TENNIS)
-http://103.113.116.150:25461/mtm1/12345/59
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (ACTION)
-http://103.113.116.150:25461/mtm1/12345/60
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (GOLF)
-http://103.113.116.150:25461/mtm1/12345/61
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (CRICKET)
-http://103.113.116.150:25461/mtm1/12345/62
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
-http://103.113.116.150:25461/mtm1/12345/63
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (RUGBY)
-http://103.113.116.150:25461/mtm1/12345/64
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL)
-http://103.113.116.150:25461/mtm1/12345/69
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 2
-http://103.113.116.150:25461/mtm1/12345/70
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 3
-http://103.113.116.150:25461/mtm1/12345/71
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 1 (THAI)
-http://103.113.116.150:25461/mtm1/12345/72
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 2 (THAI)
-http://103.113.116.150:25461/mtm1/12345/73
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 3 (THAI)
-http://103.113.116.150:25461/mtm1/12345/74
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 1)
-http://103.113.116.150:25461/mtm1/12345/75
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 3)
-http://103.113.116.150:25461/mtm1/12345/76
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE TENNIS
-http://103.113.116.150:25461/mtm1/12345/77
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DISCOVERY
-http://103.113.116.150:25461/mtm1/12345/85
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO
-http://103.113.116.150:25461/mtm1/12345/86
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO WILD
-http://103.113.116.150:25461/mtm1/12345/87
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIMAL PLANET
-http://103.113.116.150:25461/mtm1/12345/88
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HGTV
-http://103.113.116.150:25461/mtm1/12345/97
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TLC
-http://103.113.116.150:25461/mtm1/12345/98
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",AFN
-http://103.113.116.150:25461/mtm1/12345/99
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CARTOON NETWORK
-http://103.113.116.150:25461/mtm1/12345/107
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HOREE
-http://103.113.116.150:25461/mtm1/12345/112
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX+
-http://103.113.116.150:25461/mtm1/12345/122
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS
-http://103.113.116.150:25461/mtm1/12345/123
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS 2
-http://103.113.116.150:25461/mtm1/12345/124
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 1
-http://103.113.116.150:25461/mtm1/12345/125
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 2
-http://103.113.116.150:25461/mtm1/12345/126
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORT (PREMIER LEAGE)
-http://103.113.116.150:25461/mtm1/12345/127
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FOOTBALL)
-http://103.113.116.150:25461/mtm1/12345/128
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (EFL)
-http://103.113.116.150:25461/mtm1/12345/129
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FORMULA)
-http://103.113.116.150:25461/mtm1/12345/130
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (CRICKET)
-http://103.113.116.150:25461/mtm1/12345/131
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY PROTECT
-http://103.113.116.150:25461/mtm1/12345/132
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (GOLF)
-http://103.113.116.150:25461/mtm1/12345/133
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
-http://103.113.116.150:25461/mtm1/12345/134
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BEIN ENGLISH 1
-http://103.113.116.150:25461/mtm1/12345/144
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BEIN ENGLISH 2
-http://103.113.116.150:25461/mtm1/12345/145
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",PREMIER HUB 1
-http://103.113.116.150:25461/mtm1/12345/149
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",PREMIER HUB 2
-http://103.113.116.150:25461/mtm1/12345/150
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 1
-http://103.113.116.150:25461/mtm1/12345/163
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 2
-http://103.113.116.150:25461/mtm1/12345/164
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 3
-http://103.113.116.150:25461/mtm1/12345/165
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 4
-http://103.113.116.150:25461/mtm1/12345/166
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ELEVEN SPORT 5
-http://103.113.116.150:25461/mtm1/12345/167
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RMC 1
-http://103.113.116.150:25461/mtm1/12345/168
-#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RMC 2
-http://103.113.116.150:25461/mtm1/12345/169
 
 ==============================================================SKY UK================================================
 #EXTINF:-1 tvg-logo="https://www.itv.com/presscentre/sites/default/files/styles/social/public/itv_logo_blk.jpg?itok=8AahafqO", group-title="#🇬🇧 UK Sport 🇬🇧#", ITV1 HD
@@ -6100,97 +5802,1280 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/mas
 #KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
 
-=============================================================================Astro NO VPN ================================================
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="797" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro GO Live Event 2 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+#EXTINF:-1 tvg-name="TNT SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" group-title="UK Channels",TNT SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts2/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="796" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 3 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" group-title="UK Channels",TNT SPORT 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://labsec.score806.cc/live2/uk_bts3/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955
-#EXTINF:-1 tvg-name="Astrosupersport" ch-number="795" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",Astro Go Live Event 4 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" group-title="UK Channels",PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports1/index.m3u8
 
-#EXTINF:-1 tvg-id="822" tvg-name="Golf Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" , Golf Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" group-title="UK Channels",PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports2/index.m3u8
 
-#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)", Astro Cricket HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="UK Channels",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssfb/index.m3u8
 
-#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png", group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)", Astro Cricket HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="UK Channels",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssepl/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-#EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Premier Sports HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" group-title="UK Channels",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://secnl.score806.cc/live/uk_ssmain/index.m3u8
 
-#EXTINF:-1 tvg-id="814" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",ASTRO SUPERSPORT 4 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#EXTINF:-1 tvg-name="Sky Sports Criket" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" group-title="UK Channels",Sky Sports Criket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_sscricket/index.m3u8
 
-#EXTINF:-1 ch-number="809" tvg-id="beINSportsRugby" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 beINSportsRugby
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5125
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5125/default.mpd
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" group-title="UK Channels",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",beIN Sports HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" group-title="UK Channels",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssgolf/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-#EXTINF:-1 tvg-id="817" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",beIN Sports 2 HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" group-title="UK Channels",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssmix/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",beIN Sports 3 HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" group-title="UK Channels",Sky Sports News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssnews/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-#EXTINF:-1 tvg-id="820" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",Eurosport HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="UK Channels",BBC One
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#EXTINF:-1 tvg-id="816" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)",SPOTV HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="UK Channels",BBC Two
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc2/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://iili.io/MkG2hg.png",SPOTV2 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" group-title="UK Channels",BBC Three
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc3/index.m3u8
 
-#EXTINF:-1 ch-number="795" tvg-id="LIVEADHOC" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",795 Astro Supersport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5085/default.mpd
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://image.24hsport.tv/tvs/104.png" group-title="UK Channels",ITV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc//uk_itv1/index.m3u8
 
-#EXTINF:-1 ch-number="808" tvg-id="AstroSupersport" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",808 SuperSport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Rj2HfDtqnFlIuQRatW1t0Q", "kid":"feQDGn4QebL/OI2hHbmnEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5086/default_primary.mpd
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://image.24hsport.tv/tvs/105.png" group-title="UK Channels",ITV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_itv2/index.m3u8
 
-#EXTINF:-1 ch-number="809" tvg-id="ASSPPlus" group-title="🇲🇾 SPORTS (ASTRO GO)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 ASSP Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5076/default.mpd
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" group-title="UK Channels",Channel 4
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel4/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" group-title="UK Channels",Channel 5
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://image.24hsport.tv/tvs/67.png" group-title="UK Channels",BBC World News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" group-title="UK Channels",MTV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" group-title="UK Channels",FS1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" group-title="UK Channels",FS2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.24hsport.tv/tvs/88.png" group-title="UK Channels",USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" group-title="UK Channels",NFL Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.24hsport.tv/tvs/70.png" group-title="UK Channels",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" group-title="UK Channels",NBA TV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" group-title="UK Channels",Willow Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="UK Channels",WWE Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="UK Channels",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="UK Channels",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="UK Channels",RMC SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="UK Channels",RMC SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="UK Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="UK Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="UK Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="UK Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="UK Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="UK Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="UK Channels",Super Sport Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" group-title="UK Channels",Super Sport Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspl/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" group-title="UK Channels",Super Sport Laliga
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssliga/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" group-title="UK Channels",Super Sport Action
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssact/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" group-title="UK Channels",Super Sport Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" group-title="UK Channels",Super Sport Rugby
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssrugby/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" group-title="UK Channels",Super Sport Tennis
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sstennis/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" group-title="UK Channels",Super Sport Variety 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety1/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" group-title="UK Channels",Super Sport Variety 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety2/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" group-title="UK Channels",Super Sport Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" group-title="UK Channels",Super Sport PSL
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspsl/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="US Channels",TNT SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" group-title="US Channels",TNT SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" group-title="US Channels",TNT SPORT 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://labsec.score806.cc/live2/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" group-title="US Channels",PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" group-title="US Channels",PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="US Channels",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="US Channels",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" group-title="US Channels",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://secnl.score806.cc/live/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Criket" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" group-title="US Channels",Sky Sports Criket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" group-title="US Channels",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" group-title="US Channels",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" group-title="US Channels",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" group-title="US Channels",Sky Sports News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="US Channels",BBC One
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="US Channels",BBC Two
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" group-title="US Channels",BBC Three
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc3/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://image.24hsport.tv/tvs/104.png" group-title="US Channels",ITV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc//uk_itv1/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://image.24hsport.tv/tvs/105.png" group-title="US Channels",ITV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_itv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" group-title="US Channels",Channel 4
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel4/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" group-title="US Channels",Channel 5
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://image.24hsport.tv/tvs/67.png" group-title="US Channels",BBC World News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" group-title="US Channels",MTV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" group-title="US Channels",FS1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" group-title="US Channels",FS2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.24hsport.tv/tvs/88.png" group-title="US Channels",USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" group-title="US Channels",NFL Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.24hsport.tv/tvs/70.png" group-title="US Channels",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" group-title="US Channels",NBA TV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" group-title="US Channels",Willow Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="US Channels",WWE Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="US Channels",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="US Channels",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="US Channels",RMC SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="US Channels",RMC SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="US Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="US Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="US Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="US Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="US Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="US Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="US Channels",Super Sport Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" group-title="US Channels",Super Sport Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspl/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" group-title="US Channels",Super Sport Laliga
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssliga/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" group-title="US Channels",Super Sport Action
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssact/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" group-title="US Channels",Super Sport Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" group-title="US Channels",Super Sport Rugby
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssrugby/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" group-title="US Channels",Super Sport Tennis
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sstennis/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" group-title="US Channels",Super Sport Variety 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety1/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" group-title="US Channels",Super Sport Variety 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety2/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" group-title="US Channels",Super Sport Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" group-title="US Channels",Super Sport PSL
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspsl/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="France Channels",TNT SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" group-title="France Channels",TNT SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" group-title="France Channels",TNT SPORT 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://labsec.score806.cc/live2/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" group-title="France Channels",PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" group-title="France Channels",PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="France Channels",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="France Channels",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" group-title="France Channels",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://secnl.score806.cc/live/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Criket" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" group-title="France Channels",Sky Sports Criket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" group-title="France Channels",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" group-title="France Channels",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" group-title="France Channels",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" group-title="France Channels",Sky Sports News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="France Channels",BBC One
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="France Channels",BBC Two
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" group-title="France Channels",BBC Three
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc3/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://image.24hsport.tv/tvs/104.png" group-title="France Channels",ITV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc//uk_itv1/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://image.24hsport.tv/tvs/105.png" group-title="France Channels",ITV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_itv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" group-title="France Channels",Channel 4
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel4/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" group-title="France Channels",Channel 5
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://image.24hsport.tv/tvs/67.png" group-title="France Channels",BBC World News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" group-title="France Channels",MTV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" group-title="France Channels",FS1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" group-title="France Channels",FS2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.24hsport.tv/tvs/88.png" group-title="France Channels",USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" group-title="France Channels",NFL Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.24hsport.tv/tvs/70.png" group-title="France Channels",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" group-title="France Channels",NBA TV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" group-title="France Channels",Willow Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="France Channels",WWE Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="France Channels",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="France Channels",RMC SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="France Channels",RMC SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="France Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="France Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="France Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="France Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="France Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="France Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="France Channels",Super Sport Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" group-title="France Channels",Super Sport Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspl/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" group-title="France Channels",Super Sport Laliga
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssliga/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" group-title="France Channels",Super Sport Action
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssact/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" group-title="France Channels",Super Sport Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" group-title="France Channels",Super Sport Rugby
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssrugby/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" group-title="France Channels",Super Sport Tennis
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sstennis/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" group-title="France Channels",Super Sport Variety 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety1/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" group-title="France Channels",Super Sport Variety 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety2/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" group-title="France Channels",Super Sport Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" group-title="France Channels",Super Sport PSL
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspsl/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="Portugal Channels",TNT SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" group-title="Portugal Channels",TNT SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" group-title="Portugal Channels",TNT SPORT 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://labsec.score806.cc/live2/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" group-title="Portugal Channels",PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" group-title="Portugal Channels",PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="Portugal Channels",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="Portugal Channels",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" group-title="Portugal Channels",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://secnl.score806.cc/live/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Criket" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" group-title="Portugal Channels",Sky Sports Criket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" group-title="Portugal Channels",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" group-title="Portugal Channels",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" group-title="Portugal Channels",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" group-title="Portugal Channels",Sky Sports News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="Portugal Channels",BBC One
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="Portugal Channels",BBC Two
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" group-title="Portugal Channels",BBC Three
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc3/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://image.24hsport.tv/tvs/104.png" group-title="Portugal Channels",ITV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc//uk_itv1/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://image.24hsport.tv/tvs/105.png" group-title="Portugal Channels",ITV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_itv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" group-title="Portugal Channels",Channel 4
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel4/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" group-title="Portugal Channels",Channel 5
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://image.24hsport.tv/tvs/67.png" group-title="Portugal Channels",BBC World News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" group-title="Portugal Channels",MTV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" group-title="Portugal Channels",FS1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" group-title="Portugal Channels",FS2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.24hsport.tv/tvs/88.png" group-title="Portugal Channels",USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" group-title="Portugal Channels",NFL Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.24hsport.tv/tvs/70.png" group-title="Portugal Channels",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" group-title="Portugal Channels",NBA TV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" group-title="Portugal Channels",Willow Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="Portugal Channels",WWE Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="Portugal Channels",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="Portugal Channels",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="Portugal Channels",RMC SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="Portugal Channels",RMC SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="Portugal Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="Portugal Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="Portugal Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="Portugal Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="Portugal Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="Portugal Channels",Super Sport Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" group-title="Portugal Channels",Super Sport Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspl/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" group-title="Portugal Channels",Super Sport Laliga
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssliga/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" group-title="Portugal Channels",Super Sport Action
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssact/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" group-title="Portugal Channels",Super Sport Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" group-title="Portugal Channels",Super Sport Rugby
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssrugby/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" group-title="Portugal Channels",Super Sport Tennis
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sstennis/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" group-title="Portugal Channels",Super Sport Variety 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety1/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" group-title="Portugal Channels",Super Sport Variety 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety2/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" group-title="Portugal Channels",Super Sport Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" group-title="Portugal Channels",Super Sport PSL
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspsl/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" group-title="DSTV Channels",TNT SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts1/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" group-title="DSTV Channels",TNT SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/uk_bts2/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" group-title="DSTV Channels",TNT SPORT 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://labsec.score806.cc/live2/uk_bts3/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" group-title="DSTV Channels",PREMIER SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" group-title="DSTV Channels",PREMIER SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_premiersports2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" group-title="DSTV Channels",Sky Sports Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" group-title="DSTV Channels",Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssepl/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Main Event" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" group-title="DSTV Channels",Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://secnl.score806.cc/live/uk_ssmain/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Criket" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" group-title="DSTV Channels",Sky Sports Criket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" group-title="DSTV Channels",Sky Sports F1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssf1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" group-title="DSTV Channels",Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports Mix" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" group-title="DSTV Channels",Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssmix/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" group-title="DSTV Channels",Sky Sports News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_ssnews/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" group-title="DSTV Channels",BBC One
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc1/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" group-title="DSTV Channels",BBC Two
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" group-title="DSTV Channels",BBC Three
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbc3/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://image.24hsport.tv/tvs/104.png" group-title="DSTV Channels",ITV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc//uk_itv1/index.m3u8
+
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://image.24hsport.tv/tvs/105.png" group-title="DSTV Channels",ITV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_itv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" group-title="DSTV Channels",Channel 4
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel4/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" group-title="DSTV Channels",Channel 5
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_channel5/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://image.24hsport.tv/tvs/67.png" group-title="DSTV Channels",BBC World News
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_bbcnews/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" group-title="DSTV Channels",MTV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/uk_mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" group-title="DSTV Channels",FS1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs1/index.m3u8
+
+#EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" group-title="DSTV Channels",FS2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_fs2/index.m3u8
+
+#EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.24hsport.tv/tvs/88.png" group-title="DSTV Channels",USA Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_usa/index.m3u8
+
+#EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" group-title="DSTV Channels",NFL Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="CBS Sports Network" tvg-logo="https://image.24hsport.tv/tvs/70.png" group-title="DSTV Channels",CBS Sports Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_cbssportsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" group-title="DSTV Channels",NBA TV
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_nbatv/index.m3u8
+
+#EXTINF:-1 tvg-name="Willow Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" group-title="DSTV Channels",Willow Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_willow/index.m3u8
+
+#EXTINF:-1 tvg-name="WWE Network" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="DSTV Channels",WWE Network
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://us.score806.cc/us_wwe/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="DSTV Channels",BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="DSTV Channels",BEIN SPORTS 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="DSTV Channels",RMC SPORT 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://wznl.score806.cc/live/fr_rmcsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="DSTV Channels",RMC SPORT 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="DSTV Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="DSTV Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="DSTV Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="DSTV Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="DSTV Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="DSTV Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="DSTV Channels",Super Sport Football
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssfb/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" group-title="DSTV Channels",Super Sport Premier League
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspl/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" group-title="DSTV Channels",Super Sport Laliga
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssliga/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" group-title="DSTV Channels",Super Sport Action
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssact/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" group-title="DSTV Channels",Super Sport Golf
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssgolf/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" group-title="DSTV Channels",Super Sport Rugby
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssrugby/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" group-title="DSTV Channels",Super Sport Tennis
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sstennis/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" group-title="DSTV Channels",Super Sport Variety 1
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety1/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" group-title="DSTV Channels",Super Sport Variety 2
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_ssvariety2/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" group-title="DSTV Channels",Super Sport Cricket
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sscricket/index.m3u8
+
+#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" group-title="DSTV Channels",Super Sport PSL
+#EXTVLCOPT:http-referrer=https://aesport.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nlsuper.score806.cc/za_sspsl/index.m3u8
 
 
 
