@@ -4905,20 +4905,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png", Peacock 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022a5daf615167d5b8f73bb22fde549:e9a0efd4520930fd36d6cef88cdf5b2f
-https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504041-205251-247047c8e03)/master.mpd
 
-#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png", Peacock 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022cbcf28f3387c81bf38ca0177aebf:603bbdba6f30f24c14265512f5d6cdb8
-https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504040-205250-247046d4bc2)/master.mpd
-
-#EXTINF:-1 group-title="USA SPORTS" tvg-logo="https://www.peacocktv.com/static/peacock-toolkit/0.25.2/logo/peacock-wob.png", Peacock 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022a0b2c7ead8d47bf073ef59a8b97c:1380d352cd1fbdc6e07fa56e81db8a2f
-https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504043-205253-247049b1285)/master.mpd
 
 -------------------------------------------------SPORT------------------------------------------------------------------
 
@@ -5178,78 +5165,79 @@ https://live.mocdn.tv/out/v1/d89b099c972e4f47bf736e8a9b602f16/manifest_L1.mpd
 
 #EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium412/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium412/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport PSL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium413/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium413/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium414/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium414/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium56/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium56/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium415/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium415/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Variety 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium416/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium416/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Variety 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium417/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium417/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium418/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium418/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Variety 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium419/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium419/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium420/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium420/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Rugby
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium421/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium421/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium422/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium422/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium423/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium423/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Motorsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium424/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium424/index.m3u8|Origin=https://weblivehdplay.ru/
 
 #EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SUPER SPORTS",SuperSport Maximo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.webhd.ru/lb/premium572/index.m3u8
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webudit.webhd.ru/lb/premium572/index.m3u8|Origin=https://weblivehdplay.ru/
+
 
 =========================================== SPORTV SPORTS ===========================================
 
