@@ -6704,6 +6704,38 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Action
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3273
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Thriller
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11786
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop China
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3274
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Bollywood
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3275
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Drama & Family
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/3276
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Horror
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11787
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11788
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hometv_bioskop2.png" group-title="HOME TV BIOSKOP",Bioskop Warkop DKI
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11789
+
 
 
 
