@@ -6755,6 +6755,12 @@ http://213.13.16.138/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&star
 #EXTINF:-1 tvg-logo=""group-title="Sports Coba2",Sports TV 6
 http://213.13.16.138/shls/LIVE$SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
+#EXTINF:-1 group-title="Sports Coba2" tvg-logo="https://i.postimg.cc/dVNdP4Jp/c7270930-a160-11ed-aa9d-03c6add3a597.jpg", LFCTV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=910647&extension=ts&play_token=0DoacREKXn
+
 
 
 
