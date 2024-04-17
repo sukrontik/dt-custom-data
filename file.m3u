@@ -383,8 +383,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax Asia" tvg-logo="https://hometv.pw/logo/kids/animax.png" group-title="KIDS",ANIMAX (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:4731e9e0c62743f9808a7e8637abb912
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indihometv.com/drmgateway/v1/drm/widevine/license?drmLicenseToken=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwia2lkIjpudWxsfQ.k02I4pJ9nKIPPPTjC06ui1G19IxlvX7lCEwsmuEzplk9Xkz2hX52bA.MTOK5-t3R0NTRkVY.R_bLM4L0FjyI7TnKnDnv83Lp7xLN6RczkJgV2RY4DmTmbIOy3pNLxIPVL83-6sPzNtM5nXzzvvEWNtNdIBc8u2-SKEzIsI6NUTePCj1mW5yODXGJSx-mjJmi5_tvI8AOZ7gP94keOQS6TbDtMFEGBAdglvB8FhK2q-OxiYbVcyw-b6CXHCNX1YDDh_I8fqtWB4WkkwazzwdzJEqtIw7dHlNgjuAtNKgdMBpY2leDn2fcQebokbeS99TnTRUgYUZsHU9D-B2T1h1WzdO3aoxdLXvYYakfETw0aL9549RLoqoMeOMNnbU4xmW13nelCEBsBrhjpAZY77Enxe_7Zg.FJn6G6sNFB4oHI9o6pbhyw
 #EXTINF:-1 tvg-name="ANIPLUS" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="KIDS",ANIPLUS (Indi)
 https://streaming.indihometv.com/dass/107/aniplus/manifest_wuseetv.mpd?enc=3BL-ByAtwv6hlI6e2EetbA&exp=1713337148&encp=ZjFESkzBxGvi5XhktKHVQA&expp=1713347648
 
