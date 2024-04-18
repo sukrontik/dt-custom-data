@@ -1619,8 +1619,8 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="SPORTS ID",Champions TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdnts=exp=1713430193~acl=/drm/dash/*~id=66265854~hmac=630dbbfccb76746faad0a4fcc06dd0e6da676a33814c63682117d68d9ec729f0
+#KODIPROP:inputstream.adaptive.license_key=50053fb452c6b15716f8eb9b0e524278:c2608ef05318c7d7ea9b3694798cb15f
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17139_stream.mpd?hdntl=exp=1713519064~acl=%2f*~id=66265854~data=hdntl~hmac=4738f4b4ab0a7ee42266e81eb55815f52333b234e55cca46138e32ec27b81150
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T4vT0Lk/champion.jpg" group-title="SPORTS ID",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
