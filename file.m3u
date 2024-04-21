@@ -6720,6 +6720,11 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="Malay" tvg-id="BOO" tvg-name="BOO", BOO HD
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+
 
 
 
