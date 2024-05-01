@@ -6723,25 +6723,15 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
-#EXTINF:-1 group-title="Sport EPL" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
-#EXTINF:-1 group-title="Sport EPL" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",EPL-2wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/602_eng2./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
-#EXTINF:-1 group-title="Sport EPL" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png",EPL-3wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
-#EXTINF:-1 group-title="Sport EPLL" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png",EPL-4wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
-#EXTINF:-1 group-title="Sport EPL" tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5wacth
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDE6MjA6MDEgUE0maGFzaF92YWx1ZT1xK1FERnJYMzVnaGpZNGRNaEhiRE13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODUyMTQ=
+##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="NBA", NBA TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
+#https://webudit.vipboxtv.stream/lb/premium404/index.m3u8
 
-
-
+##EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_nba_ver1.png" group-title="NBA",NBA (Mb)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=nba
+#https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=nba
 
 
 
