@@ -6584,7 +6584,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-023/stream.mpd
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/SPORTDIGITAL%2520FUSSBALL%2520HD.jpg",Sportdigital Fussball
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd&ved=2ahUKEwjF0-W89uuFAxWhxzgGHW_SDSsQFnoECA4QAQ&usg=AOvVaw1FDw8_cxOxj8nkKie_abN-
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn 2 Germany
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6723,7 +6723,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
-##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="NBA", NBA TV FHD
+##EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Sports COBA", NBA TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/ 
 #https://webudit.vipboxtv.stream/lb/premium404/index.m3u8
