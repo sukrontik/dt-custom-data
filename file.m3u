@@ -6966,77 +6966,94 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=nba
 #https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=nba
 
-#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_1.png" group-title="AIS PLAY",BEIN SPORTS 2
+#EXTINF:-1 group-title="AIS PLAY" tvg-id="beIN SPORTS 1.th" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_2.png" group-title="AIS PLAY",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-name="" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_3.png" group-title="AIS PLAY", BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports4ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png", BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports5ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png", BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports6ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png", BEIN SPORTS 6
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
-
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 #EXTINF:-1 group-title="AIS PLAY" tvg-id="beinsports7ar.id" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",BEIN SPORTS 7
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=8926857833fdcc725e2e93ac94da235a&chunkHttps=true&tmid=B0001&tpbk=tnva53FBc8QifmWP&rrt=1714531911&tmod=rfk&rsid=aca1918a-75c7-4b1f-acc8-4e6aff94204b&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1714618292
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT1" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png" group-title="AIS PLAY",SIAMSPORT1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_key=de761cd285aa2b1c1620d16ddbade010:f12de5f0de92c52f841705d9d6449d3a 
-#EXTINF:-1 group-title="#⚽️ LIVE EVENT VPN MALAY" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 1 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT2" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png" group-title="AIS PLAY",SIAMSPORT2
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_key=8ab014de03c31a84a835583c348a5e10:5ed727c3f28bac59aa3e5914f5ad455c 
-#EXTINF:-1 group-title="#⚽️ LIVE EVENT VPN MALAY" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT3" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png" group-title="AIS PLAY",SIAMSPORT3
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_key=8d580c263ffde691b4249dfcac43fd10:f3148d1e737dece3554b889868831659 
-#EXTINF:-1 group-title="#⚽️ LIVE EVENT VPN MALAY" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 3 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
+#EXTINF:-1 tvg-id="" tvg-name="SIAMSPORT3" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png" group-title="AIS PLAY",SIAMSPORT4
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cb18945925e65d411fbb986d72531010:15ff74ae1064c5f2fb00d2995fa88955 
-#EXTINF:-1 group-title="#⚽️ LIVE EVENT VPN MALAY" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/astro-go-256.png",AstroGo Live Event 4 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9986/default_primary.mpd
+#EXTINF:-1 group-title="AIS PLAY" tvg-id="GlobalTrekker.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png",GlobalTrekker
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="AIS PLAY",แอท ทีวี
+
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039..mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 group-title="AIS PLAY" tvg-id="MV Channel" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png",MV Channel
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0090/DASH/V0090.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Major Channel" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png" group-title="AIS PLAY",Major Channel
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0091/DASH/V0091.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 group-title="AIS PLAY" tvg-id="Cartoon Club" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png", Cartoon Club
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
+#EXTINF:-1 tvg-name="AIS PLAY SPORTS 1" tvg-id="AIS PLAY SPORTS 1" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png" group-title="AIS PLAY", AIS PLAY SPORTS 1
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=dfe52f21fe4ccdc27ddae62dc623ddba&chunkHttps=true&tmid=B0014&tpbk=OY7VXwPz1aaRLDoR&rrt=1716036180&tmod=rfk&rsid=397cff63-9da9-46c8-abf9-f6c009b43824&tuid=04480ef5b4&cdn=redfox-https&tdid=4b5fe084407b6009f48daa63cba11c6b&origin=anevia&tfa=f0-fc&tttl=1716122579
 
 
 
