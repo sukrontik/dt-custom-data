@@ -7104,7 +7104,14 @@ https://7pal.short.gy/VSportUHD
 ======================================================
 
 
+//////////////////////////////   LIVE EVENT
 
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/127?|user-agent=com.xui.1_5_12r2
+
+#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c0juD1cji7FRpWZSeOEIm9eghengsmenPEgJog-O4A&s", TIMNAS LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+https://raw.githubusercontent.com/MayangTV/ya2m/master/siarindo.m3u8
 
 
 
