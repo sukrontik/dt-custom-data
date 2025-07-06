@@ -6,14 +6,24 @@
 	<false/>
 	<key>allowQuit</key>
 	<false/>
+	<key>allowWlan</key>
+	<false/>
 	<key>browserViewMode</key>
 	<integer>1</integer>
+	<key>enableReloadInExam</key>
+	<true/>
+	<key>enableSebServer</key>
+	<false/>
+	<key>enableURLContentFilter</key>
+	<false/>
+	<key>enableURLFilter</key>
+	<false/>
 	<key>examSessionClearCookiesOnStart</key>
 	<true/>
 	<key>hashedQuitPassword</key>
-	<string>e3ceb5881a0a1fdaad01296d7554868d</string>
-	<key>sebServerCertificateFingerprint</key>
-	<string></string>
+	<string>4cc8f4d609b717356701c57a03e737e5ac8fe885da8c7163d3de47e01849c635</string>
+	<key>sendBrowserExamKey</key>
+	<false/>
 	<key>showMenuBar</key>
 	<false/>
 	<key>showTaskbar</key>
