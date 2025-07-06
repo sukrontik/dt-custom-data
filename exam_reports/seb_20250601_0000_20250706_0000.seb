@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sebConfigFile>
-  <startUrl>https://sukrontik.github.io/dt-custom-data/exam_reports/index_20250601_0000_20250706_0000.html</startUrl>
+  <startUrl>https://raw.githubusercontent.com/sukrontik/dt-custom-data/exam_reports/index_20250601_0000_20250706_0000.html</startUrl>
   <examSettings>
     <exitPassword>222222</exitPassword>
   </examSettings>
 </sebConfigFile>
-
