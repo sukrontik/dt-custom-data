@@ -5,7 +5,7 @@
 	<key>URLFilterEnable</key>
 	<false/>
 	<key>allowQuit</key>
-	<false/>
+	<true/>
 	<key>allowWlan</key>
 	<false/>
 	<key>browserViewMode</key>
