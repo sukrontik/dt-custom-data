@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URLFilterEnable</key>
-	<false/>
-	<key>allowQuit</key>
-	<false/>
-	<key>browserViewMode</key>
-	<integer>1</integer>
-	<key>examSessionClearCookiesOnStart</key>
-	<true/>
-	<key>hashedQuitPassword</key>
-	<string>e3ceb5881a0a1fdaad01296d7554868d</string>
-	<key>sebServerCertificateFingerprint</key>
-	<string></string>
-	<key>showMenuBar</key>
-	<false/>
-	<key>showTaskbar</key>
-	<false/>
-	<key>startURL</key>
-	<string>https://raw.githubusercontent.com/sukrontik/dt-custom-data/exam_reports/index_20250601_0000_20250706_0000.html</string>
-</dict>
-</plist>
+<sebConfigFile>
+  <startUrl>https://sukrontik.github.io/dt-custom-data/exam_reports/index_20250601_0000_20250706_0000.html</startUrl>
+  <examSettings>
+    <exitPassword>222222</exitPassword>
+  </examSettings>
+</sebConfigFile>
+
