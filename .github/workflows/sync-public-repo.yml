@@ -1,0 +1,30 @@
+name: Sync to Public Repository
+
+on:
+  push:
+    branches:
+      - main # Ganti jika branch utama Anda namanya lain, misal: master
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah 1: Download kode dari repo private
+      - name: Checkout private repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Langkah 2: HAPUS FOLDER exam_reports SEBELUM DIPUBLIKASIKAN
+      - name: Remove private folder
+        run: rm -rf exam_reports
+
+      # Langkah 3: Kirim sisa file ke repo public
+      - name: Push to public repository
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.ACCESS_TOKEN }}
+          external_repository: sukrontik/dt-custom-data-public # Ganti dengan username/repo-publik-Anda
+          publish_branch: main
+          publish_dir: ./
+          commit_message: ${{ github.event.head_commit.message }}
