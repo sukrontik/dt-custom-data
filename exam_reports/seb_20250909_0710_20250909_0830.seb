@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>startURL</key>
+  <string>https://sukrontik.github.io/dt-custom-data/exam_reports/index_20250909_0710_20250909_0830.html</string>
+  <key>hashedQuitPassword</key>
+  <string>74e963c73b96ff03aa585af41e3cfad9854f992acc27743f4a9dfe03d63dd975</string>
+  <key>URLFilterEnable</key>
+  <false/>
+  <key>allowQuit</key>
+  <true/>
+  <key>allowWlan</key>
+  <false/>
+  <key>browserViewMode</key>
+  <integer>1</integer>
+  <key>enableReloadInExam</key>
+  <true/>
+  <key>enableSebServer</key>
+  <false/>
+  <key>enableURLContentFilter</key>
+  <false/>
+  <key>enableURLFilter</key>
+  <false/>
+  <key>examSessionClearCookiesOnStart</key>
+  <true/>
+  <key>sendBrowserExamKey</key>
+  <false/>
+  <key>showMenuBar</key>
+  <false/>
+  <key>showTaskbar</key>
+  <false/>
+  <key>allowSEBToControlSingleAppMode</key>
+  <true/>
+  <key>enableIOSSingleAppMode</key>
+  <false/>
+  <key>enableJavaScript</key>
+  <true/>
+  <key>enablePlugins</key>
+  <true/>
+  <key>enableBrowsing</key>
+  <true/>
+  <key>browserWindowAllowPopups</key>
+  <true/>
+  <key>browserWindowAllowNavigation</key>
+  <true/>
+  <key>enableCookies</key>
+  <true/>
+  <key>useSafariViewController</key>
+  <false/>
+</dict>
+</plist>
+
