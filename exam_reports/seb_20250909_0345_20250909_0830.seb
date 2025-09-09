@@ -6,22 +6,13 @@
   <string>https://sukrontik.github.io/dt-custom-data/exam_reports/index_20250909_0345_20250909_0830.html</string>
   <key>hashedQuitPassword</key>
   <string>74e963c73b96ff03aa585af41e3cfad9854f992acc27743f4a9dfe03d63dd975</string>
-  <key>URLFilterEnable</key>
-  <false/>
   <key>allowQuit</key>
   <true/>
   <key>allowWlan</key>
   <false/>
   <key>browserViewMode</key>
-  <integer>1</integer>
-  <key>enableReloadInExam</key>
+  <integer>0</integer> <key>enableReloadInExam</key>
   <true/>
-  <key>enableSebServer</key>
-  <false/>
-  <key>enableURLContentFilter</key>
-  <false/>
-  <key>enableURLFilter</key>
-  <false/>
   <key>examSessionClearCookiesOnStart</key>
   <true/>
   <key>sendBrowserExamKey</key>
@@ -48,6 +39,40 @@
   <true/>
   <key>useSafariViewController</key>
   <false/>
+  
+  <key>enableURLFilter</key>
+  <true/>
+  <key>enableURLContentFilter</key>
+  <false/>
+  <key>URLFilterEnable</key>
+  <true/>
+  
+  <key>URLFilterRules</key>
+  <array>
+    <dict>
+      <key>active</key>
+      <true/>
+      <key>expression</key>
+      <string>https://sukrontik.github.io</string>
+      <key>action</key>
+      <integer>1</integer>
+    </dict>
+    <dict>
+      <key>active</key>
+      <true/>
+      <key>expression</key>
+      <string>https://accounts.google.com</string>
+      <key>action</key>
+      <integer>1</integer>
+    </dict>
+    <dict>
+      <key>active</key>
+      <true/>
+      <key>expression</key>
+      <string>https://ssl.gstatic.com</string>
+      <key>action</key>
+      <integer>1</integer>
+    </dict>
+  </array>
 </dict>
 </plist>
-
