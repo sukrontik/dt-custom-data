@@ -11,7 +11,8 @@
   <key>allowWlan</key>
   <false/>
   <key>browserViewMode</key>
-  <integer>0</integer> <key>enableReloadInExam</key>
+  <integer>0</integer>
+  <key>enableReloadInExam</key>
   <true/>
   <key>examSessionClearCookiesOnStart</key>
   <true/>
@@ -21,8 +22,10 @@
   <false/>
   <key>showTaskbar</key>
   <false/>
+  
   <key>allowSEBToControlSingleAppMode</key>
-  <true/>
+  <false/>
+  
   <key>enableIOSSingleAppMode</key>
   <false/>
   <key>enableJavaScript</key>
@@ -39,14 +42,12 @@
   <true/>
   <key>useSafariViewController</key>
   <false/>
-  
   <key>enableURLFilter</key>
   <true/>
   <key>enableURLContentFilter</key>
   <false/>
   <key>URLFilterEnable</key>
   <true/>
-  
   <key>URLFilterRules</key>
   <array>
     <dict>
