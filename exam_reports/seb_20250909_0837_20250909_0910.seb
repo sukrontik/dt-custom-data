@@ -4,50 +4,92 @@
 <dict>
   <key>startURL</key>
   <string>https://sukrontik.github.io/dt-custom-data/exam_reports/index_20250909_0837_20250909_0910.html</string>
+
+  <!-- OPSI FALLBACK LOGIN -->
+  <key>fallbackURL</key>
+  <string>https://accounts.google.com/ServiceLogin</string>
+
+  <!-- Password keluar -->
   <key>hashedQuitPassword</key>
   <string>74e963c73b96ff03aa585af41e3cfad9854f992acc27743f4a9dfe03d63dd975</string>
-  <key>URLFilterEnable</key>
-  <false/>
+
+  <!-- Izinkan keluar -->
   <key>allowQuit</key>
   <true/>
+
+  <!-- WiFi manual tidak boleh diubah -->
   <key>allowWlan</key>
   <false/>
+
+  <!-- Mode tampilan browser -->
   <key>browserViewMode</key>
   <integer>1</integer>
-  <key>enableReloadInExam</key>
+
+  <!-- Agar bisa login Gmail -->
+  <key>enableCookies</key>
   <true/>
-  <key>enableSebServer</key>
-  <false/>
-  <key>enableURLContentFilter</key>
-  <false/>
-  <key>enableURLFilter</key>
-  <false/>
-  <key>examSessionClearCookiesOnStart</key>
+  <key>browserWindowAllowPopups</key>
   <true/>
-  <key>sendBrowserExamKey</key>
-  <false/>
-  <key>showMenuBar</key>
-  <false/>
-  <key>showTaskbar</key>
-  <false/>
-  <key>allowSEBToControlSingleAppMode</key>
+  <key>browserWindowAllowNavigation</key>
   <true/>
-  <key>enableIOSSingleAppMode</key>
-  <false/>
   <key>enableJavaScript</key>
   <true/>
   <key>enablePlugins</key>
   <true/>
   <key>enableBrowsing</key>
   <true/>
-  <key>browserWindowAllowPopups</key>
+
+  <!-- FILTER DOMAIN LOGIN GOOGLE -->
+  <key>enableURLFilter</key>
   <true/>
-  <key>browserWindowAllowNavigation</key>
+  <key>URLFilterEnable</key>
   <true/>
-  <key>enableCookies</key>
+  <key>URLFilterRules</key>
+  <array>
+    <dict>
+      <key>action</key><string>allow</string>
+      <key>active</key><true/>
+      <key>regex</key><string>https://.*\.google\.com/.*</string>
+    </dict>
+    <dict>
+      <key>action</key><string>allow</string>
+      <key>active</key><true/>
+      <key>regex</key><string>https://.*\.gstatic\.com/.*</string>
+    </dict>
+    <dict>
+      <key>action</key><string>allow</string>
+      <key>active</key><true/>
+      <key>regex</key><string>https://.*\.googleusercontent\.com/.*</string>
+    </dict>
+    <dict>
+      <key>action</key><string>allow</string>
+      <key>active</key><true/>
+      <key>regex</key><string>https://.*\.github\.io/.*</string>
+    </dict>
+  </array>
+
+  <!-- Sembunyikan menu bar/taskbar -->
+  <key>showMenuBar</key>
+  <false/>
+  <key>showTaskbar</key>
+  <false/>
+
+  <!-- Single App Mode -->
+  <key>allowSEBToControlSingleAppMode</key>
   <true/>
+  <key>enableIOSSingleAppMode</key>
+  <false/>
+
+  <!-- Lain-lain -->
+  <key>enableReloadInExam</key>
+  <true/>
+  <key>enableSebServer</key>
+  <false/>
+  <key>examSessionClearCookiesOnStart</key>
+  <true/>
+  <key>sendBrowserExamKey</key>
+  <false/>
   <key>useSafariViewController</key>
   <false/>
 </dict>
 </plist>
-
